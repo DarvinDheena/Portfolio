@@ -22,7 +22,7 @@ function Skills() {
           })}
         </div>
         <ul className={`${styles.history} col-8`}>
-        <img src="assets/certificates/FSD-Overall.png"  alt="hello" />        </ul>
+        <img src={getImageUrl('certificates/FSD-Overall.png')} alt="hello" />        </ul>
       </div>
     </section>  
   )
