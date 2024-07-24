@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Simple Social Media Application  :",
+      "imageSrc": "projects/social.png",
+      "description": "A Simple socialmedia application with users, posts, like & comments with fully responsive ",
+      "skills": ["React", "Express", "Node","Bootstrap"],
+      "Demo" : "https://socialmedia-bend.onrender.com" ,
+      "source": "https://github.com/DarvinDheena/SocialMedia_BEnd.git"
+    },
+    {
+      "title": "URL Shortner Application  :",
+      "imageSrc": "projects/auto_site_logo.png",
+      "description": "This is achieved by using a redirect which link to webpage on the www in which a uniform resource locator may be made substantially shortner ",
+      "skills": ["React", "Express", "Node" ],
+      "Demo" : "https://url-shortner-baxx.onrender.com" ,
+      "source": "https://github.com/DarvinDheena/URL-Shortner.git"
+    }
+  ]
